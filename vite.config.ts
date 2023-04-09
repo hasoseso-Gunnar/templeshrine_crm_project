@@ -18,7 +18,7 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: '/sample/',
+  base: '/templeshrine_crm_project/',
   build: {
     outDir: 'docs'
   },
